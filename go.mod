@@ -1,4 +1,4 @@
-module github.com/camptocamp/helm-sops
+module github.com/geometry-labs/helm-sops
 
 go 1.13
 
